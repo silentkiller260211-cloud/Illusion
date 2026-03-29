@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Illusion</string>
+        <string name="welcome_message">مرحباً، أنا إيليوشن. الواقع قصة—فلنختر بحكمة.</string>
+            <string name="prompt_hint">ما الوهم الذي تعيشه؟</string>
+                <string name="send">إرسال</string>
+                    <string name="language_indicator">اللغة: %s</string>
+                    </resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Illusion</string>
+        <string name="welcome_message">नमस्ते, मैं इल्यूज़न हूँ। वास्तविकता एक कहानी है—आइए बुद्धिमानी से चुनें।</string>
+            <string name="prompt_hint">आप किस भ्रम में जी रहे हैं?</string>
+                <string name="send">भेजें</string>
+                    <string name="language_indicator">भाषा: %s</string>
+                    </resources>

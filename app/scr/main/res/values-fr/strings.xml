@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Illusion</string>
+        <string name="welcome_message">Bonjour, je suis Illusion. La réalité est une histoire—choisissons judicieusement.</string>
+            <string name="prompt_hint">Quelle illusion vivez-vous ?</string>
+                <string name="send">Envoyer</string>
+                    <string name="language_indicator">Langue : %s</string>
+                    </resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Illusion</string>
+        <string name="welcome_message">こんにちは、私はIllusionです。現実は物語です—賢く選びましょう。</string>
+            <string name="prompt_hint">あなたはどのような幻想を生きていますか？</string>
+                <string name="send">送信</string>
+                    <string name="language_indicator">言語: %s</string>
+                    </resources>

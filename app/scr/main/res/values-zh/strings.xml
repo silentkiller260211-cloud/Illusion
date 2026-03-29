@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Illusion</string>
+        <string name="welcome_message">你好，我是Illusion。现实是一个故事——让我们明智地选择。</string>
+            <string name="prompt_hint">你正在活在什么样的幻觉中？</string>
+                <string name="send">发送</string>
+                    <string name="language_indicator">语言: %s</string>
+                    </resources>
